@@ -1,0 +1,3 @@
+[submodule "single-price-grid-component"]
+	path = single-price-grid-component
+	url = https://github.com/rngueco/single-price-grid-component
