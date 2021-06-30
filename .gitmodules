@@ -1,3 +1,30 @@
 [submodule "single-price-grid-component"]
 	path = single-price-grid-component
 	url = https://github.com/rngueco/single-price-grid-component
+[submodule "stats-preview-card-component"]
+	path = stats-preview-card-component
+	url = https://github.com/rngueco/stats-preview-card-component
+[submodule "faq-accordion-card"]
+	path = faq-accordion-card
+	url = https://github.com/rngueco/faq-accordion-card
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/rngueco/article-preview-component
+[submodule "social-proof-section"]
+	path = social-proof-section
+	url = https://github.com/rngueco/social-proof-section
+[submodule "3-column-preview-card-component"]
+	path = 3-column-preview-card-component
+	url = https://github.com/rngueco/3-column-preview-card-component
+[submodule "profile-card-component"]
+	path = profile-card-component
+	url = https://github.com/rngueco/profile-card-component
+[submodule "four-card-feature-section"]
+	path = four-card-feature-section
+	url = https://github.com/rngueco/four-card-feature-section
+[submodule "base-apparel-coming-soon"]
+	path = base-apparel-coming-soon
+	url = https://github.com/rngueco/base-apparel-coming-soon
+[submodule "intro-component-with-signup-form"]
+	path = intro-component-with-signup-form
+	url = https://github.com/rngueco/intro-component-with-signup-form
