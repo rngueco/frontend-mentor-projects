@@ -28,3 +28,6 @@
 [submodule "intro-component-with-signup-form"]
 	path = intro-component-with-signup-form
 	url = https://github.com/rngueco/intro-component-with-signup-form
+[submodule "ping-coming-soon-page"]
+	path = ping-coming-soon-page
+	url = https://github.com/rngueco/ping-coming-soon-page
