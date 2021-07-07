@@ -31,3 +31,6 @@
 [submodule "ping-coming-soon-page"]
 	path = ping-coming-soon-page
 	url = https://github.com/rngueco/ping-coming-soon-page
+[submodule "officelite-coming-soon-site"]
+	path = officelite-coming-soon-site
+	url = https://github.com/rngueco/officelite-coming-soon-site
